@@ -13,3 +13,8 @@ Skills:
 
 [<img src='https://raw.githubusercontent.com/NaimurHera/naimurhera/main/github.png' alt='github' height='30'>](https://github.com/https://github.com/NaimurHera)  [<img src='https://raw.githubusercontent.com/NaimurHera/naimurhera/main/linkedin.png' alt='linkedin' height='30'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mdhera//)  [<img src='https://raw.githubusercontent.com/NaimurHera/naimurhera/main/facebook.webp' alt='facebook' height='30'>](https://www.facebook.com/https://www.facebook.com/NaimurHera) [<img src='https://raw.githubusercontent.com/NaimurHera/naimurhera/main/instagram.png' alt='instagram' height='30'>](https://www.instagram.com/https://www.instagram.com/naimurhera//) [<img src='https://raw.githubusercontent.com/NaimurHera/naimurhera/main/twitter.png' alt='twitter' height='30'>](https://twitter.com/https://twitter.com/naimurhera) [<img src='https://raw.githubusercontent.com/NaimurHera/naimurhera/main/discord.svg' alt='discord' height='30'>](https://discordapp.com/users/920597161295613962)  
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaimurHera)
+
+
+
